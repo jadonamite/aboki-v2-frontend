@@ -1,6 +1,6 @@
 # Aboki V1 — Complete Technical Architecture
 
-### _The Stateless Conversion Bridge_
+
 
 ---
 
